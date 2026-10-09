@@ -1,0 +1,73 @@
+% CERG-FLUX Lab paper proposal (approval gate 1)
+% One page. Send to Prof Muaaz Bhamjee (and all authors) before any drafting. Replace every bracket.
+% Compile with pdflatex or lualatex.
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[british]{babel}
+\usepackage[margin=20mm]{geometry}
+\usepackage[hidelinks]{hyperref}
+\usepackage{amssymb}
+\usepackage{tabularx}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{parskip}
+
+\pagestyle{empty}
+
+% Field label followed by its content
+\newcommand{\field}[2]{\noindent\textbf{#1:} #2\par}
+% Tick box for the decision line
+\newcommand{\tickbox}{$\square$\,}
+
+\begin{document}
+
+\begin{center}
+  {\Large\bfseries Paper proposal (approval gate 1)}\\[0.3em]
+  CERG-FLUX Lab, Department of Mechanical and Aeronautical Engineering, University of Pretoria\\[0.2em]
+  {\small One page. Send to Prof Muaaz Bhamjee (and all authors) before any drafting. Replace every bracket.}
+\end{center}
+
+\field{Working title}{[specific enough to be found by search]}
+
+\field{Proposed authors and order}{[name, affiliation, ORCID for each; corresponding author marked]}
+
+\field{Contribution in one sentence}{[What does a reader know after this paper that they did not know before?]}
+
+\field{Evidence that proves it}{[List the results, figures, validation and verification cases. For CFD, LBM and SciML: mesh or resolution independence, benchmark verification, experimental or reference validation.]}
+
+\field{Type}{[journal article / conference paper / letter / preprint first]}
+
+\field{Candidate venues (two or three), with reasoning}{}
+
+\begin{small}
+\renewcommand{\arraystretch}{1.3}
+\begin{tabularx}{\textwidth}{>{\raggedright\arraybackslash}p{2.2cm} X >{\raggedright\arraybackslash}p{1.6cm} >{\raggedright\arraybackslash}p{1.6cm} >{\raggedright\arraybackslash}p{1.7cm} X >{\raggedright\arraybackslash}p{2.0cm}}
+\toprule
+Venue & Fit (why this readership) & DHET accredited & Indexed (WoS/ Scopus) & Quartile / CiteScore & Open access route and cost & Median time to first decision \\
+\midrule
+{[Venue 1]} & & & & & & \\[1.2em]
+{[Venue 2]} & & & & & & \\[1.2em]
+{[Venue 3]} & & & & & & \\[1.2em]
+\bottomrule
+\end{tabularx}
+\end{small}
+
+\field{Relation to prior work by the authors}{[conference paper to be extended? thesis chapter? state overlap and what is new]}
+
+\field{Data, code and models to be released}{[repository, DOI plan]}
+
+\field{Ethics or clearance needed}{[UP ethics number, ATLAS or partner clearance, none]}
+
+\field{Timeline}{first draft [date]; internal review [date]; submission [date]}
+
+\vspace{0.5em}
+\hrule
+\vspace{0.5em}
+
+\field{Decision (Prof Bhamjee)}{\tickbox Approved as proposed \quad \tickbox Approved with changes \quad \tickbox Not yet}
+
+\noindent\textbf{Notes:}
+
+\end{document}

@@ -1,0 +1,80 @@
+% CERG-FLUX Lab response to reviewers template
+% Submit this as a separate document with the revised manuscript. Prof Bhamjee approves it
+% before it goes back (gate 5). Replace every bracket. Quote each reviewer comment in full
+% and in order; never paraphrase a reviewer.
+%
+% Conventions: number comments R.n; keep the tone courteous and factual; where you disagree,
+% give the evidence and consider whether the text can still be clarified so the next reader
+% does not stumble; thank once at the top, not after every point.
+%
+% Compile with pdflatex or lualatex.
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[british]{babel}
+\usepackage[margin=25mm]{geometry}
+\usepackage[hidelinks]{hyperref}
+\usepackage{amsmath,amssymb}
+\usepackage{siunitx}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{framed}
+\usepackage{parskip}
+
+% Reviewer comments are quoted verbatim in a shaded box; responses and changes follow in plain text.
+\definecolor{shadecolor}{gray}{0.93}
+
+% \comment{label}{reviewer's text}
+\newcommand{\comment}[2]{%
+  \begin{shaded}\noindent\textbf{Comment #1.} #2\end{shaded}}
+% \response{text}
+\newcommand{\response}[1]{\noindent\emph{Response.} #1\par\medskip}
+% \change{text}
+\newcommand{\change}[1]{\noindent\emph{Change.} #1\par\bigskip}
+
+\begin{document}
+
+\begin{center}
+  {\Large\bfseries Response to reviewers}
+\end{center}
+
+\noindent\textbf{Manuscript:} [ID], ``[Title]''\\
+\textbf{Journal:} [Journal]\\
+\textbf{Authors:} [names]
+
+\vspace{1em}
+\noindent Dear Editor,
+
+We thank the editor and the reviewers for their careful reading and constructive comments. We have revised the manuscript in response to every point. Below, each comment is reproduced in full, followed by our response and the change made, with its location in the revised manuscript. A marked-up version with changes highlighted and a clean version are both supplied.
+
+Summary of the main changes:
+\begin{enumerate}
+  \item {[Most substantial change, one line, with section or figure reference]}
+  \item {[Next]}
+  \item {[Next]}
+\end{enumerate}
+
+\section*{Reviewer 1}
+
+\comment{1.1}{[Reviewer's text, quoted in full.]}
+\response{[Direct answer first: agree, partly agree, or disagree with evidence. If a new calculation, figure or case was added, say so and give the result.]}
+\change{[Exactly what changed: ``Section 3.2, paragraph 2, now reads \ldots; Figure 5 added; Table 2 revised.'' Or: ``No change; see response.'']}
+
+\comment{1.2}{[\ldots]}
+\response{[\ldots]}
+\change{[\ldots]}
+
+\section*{Reviewer 2}
+
+\comment{2.1}{[\ldots]}
+\response{[\ldots]}
+\change{[\ldots]}
+
+\section*{Editor's comments}
+
+\comment{E.1}{[\ldots]}
+\response{[\ldots]}
+\change{[\ldots]}
+
+\end{document}

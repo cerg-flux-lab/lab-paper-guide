@@ -1,0 +1,26 @@
+# LaTeX build artefacts
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.lof
+*.lot
+*.nav
+*.out
+*.run.xml
+*.snm
+*.synctex.gz
+*.toc
+*.xdv
+_minted*/
+# Editor and OS
+.DS_Store
+.vscode/
+*.swp
+# Never commit these here
+*.pdf
+*.docx
+data/

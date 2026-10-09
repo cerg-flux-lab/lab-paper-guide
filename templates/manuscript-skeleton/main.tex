@@ -1,0 +1,57 @@
+% CERG-FLUX Lab manuscript skeleton
+% Replace the documentclass with the publisher class (elsarticle, sn-jnl, revtex4-2, IEEEtran, jinst, ...)
+\documentclass[11pt,a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[british]{babel}
+\usepackage{amsmath,amssymb}
+\usepackage{siunitx}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage[colorlinks=true,allcolors=blue]{hyperref}
+\usepackage{orcidlink}
+\usepackage{lineno}
+
+\graphicspath{{figures/}}
+
+\title{[Title: specific, searchable, 10 to 15 words]}
+
+\author{First Author\,\orcidlink{0000-0000-0000-0000}\thanks{Department of Mechanical and Aeronautical Engineering, University of Pretoria, Pretoria, South Africa}
+\and Muaaz Bhamjee\,\orcidlink{0000-0002-2697-4589}\thanks{Corresponding author. Department of Mechanical and Aeronautical Engineering, University of Pretoria, Pretoria, South Africa}}
+
+\begin{document}
+\maketitle
+\linenumbers
+
+\begin{abstract}
+[Problem. Method. Main result with a number. Implication. 150 to 250 words; written last.]
+\end{abstract}
+
+\noindent\textbf{Keywords:} [five to six, matching the journal's list]
+
+\input{sections/intro}
+\input{sections/methods}
+\input{sections/results}
+\input{sections/conclusion}
+
+\section*{CRediT authorship contribution statement}
+[Name]: Conceptualisation, Methodology, Software, Investigation, Writing -- original draft.
+Muaaz Bhamjee: Conceptualisation, Supervision, Writing -- review and editing, Funding acquisition.
+
+\section*{Declaration of competing interest}
+The authors declare no competing interests.
+
+\section*{Data availability}
+[Code and data are available at https://github.com/cerg-flux-lab/... (DOI: ...).]
+
+\section*{Declaration of generative AI use}
+[State what was used and for what, as the journal requires. The science was written by the authors.]
+
+\section*{Acknowledgements}
+[Funders by grant number; collaborators; computing resources.]
+
+\bibliographystyle{unsrt}
+\bibliography{refs}
+
+\end{document}
