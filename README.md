@@ -2,7 +2,7 @@
 
 Guide, templates and checklists for publishing from the CERG-FLUX Lab (Fluids, Learning and Uncertainty in compleX systems), Department of Mechanical and Aeronautical Engineering, University of Pretoria.
 
-**Two rules apply to every paper from the Lab.** All publication decisions require Prof Muaaz Bhamjee's (and co-supervisor) input and final approval, and every author must be able to defend every word (the viva test under the Lab's Intellectual Ownership Framework). The guide explains both.
+**Two rules apply to every paper from the Lab.** All publication decisions require Prof Muaaz Bhamjee's (and co-supervisors') input and final approval, and every author must be able to defend every word (the viva test under the Lab's Intellectual Ownership Framework). The guide explains both.
 
 ## Start here
 
@@ -12,7 +12,7 @@ Guide, templates and checklists for publishing from the CERG-FLUX Lab (Fluids, L
 | Find the LaTeX template for a target journal or conference | [templates/README.md](templates/README.md) |
 | Write the cover letter for a submission | [templates/cover-letter.md](templates/cover-letter.md) or the LaTeX version [templates/cover-letter.tex](templates/cover-letter.tex) |
 | Respond to reviewers | [templates/response-to-reviewers.md](templates/response-to-reviewers.md) or the LaTeX version [templates/response-to-reviewers.tex](templates/response-to-reviewers.tex) |
-| Propose a paper to Prof Bhamjee (approval gate 1) | [templates/paper-proposal.md](templates/paper-proposal.md) or the LaTeX version [templates/paper-proposal.tex](templates/paper-proposal.tex) |
+| Propose a paper to Prof Bhamjee (and co-supervisors) (approval gate 1) | [templates/paper-proposal.md](templates/paper-proposal.md) or the LaTeX version [templates/paper-proposal.tex](templates/paper-proposal.tex) |
 | Check the manuscript before internal review (gate 3) | [docs/pre-submission-checklist.md](docs/pre-submission-checklist.md) |
 | Set up the Overleaf or Git project for a new manuscript | [templates/manuscript-skeleton/](templates/manuscript-skeleton/) and its [README](templates/manuscript-skeleton/README.md) |
 
@@ -46,7 +46,7 @@ Guide, templates and checklists for publishing from the CERG-FLUX Lab (Fluids, L
 
 ## Approval workflow in one line
 
-Gate 1 proposal, Gate 2 venue, Gate 3 manuscript, Gate 4 submission, Gate 5 every response or resubmission. Nothing leaves the Lab between gates without Prof Bhamjee's (and co-supervisor) written sign-off. Details in section 12 of the guide.
+Gate 1 proposal, Gate 2 venue, Gate 3 manuscript, Gate 4 submission, Gate 5 every response or resubmission. Nothing leaves the Lab between gates without Prof Bhamjee's (and co-supervisors') written sign-off. Details in section 12 of the guide.
 
 ## Maintainer
 

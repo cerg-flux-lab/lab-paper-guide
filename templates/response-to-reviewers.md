@@ -1,6 +1,6 @@
 # Response to reviewers template
 
-Submit this as a separate document with the revised manuscript. Prof Bhamjee (and all authors) approve(s) it before it goes back (gate 5). Replace every bracket. Quote each reviewer comment in full and in order; never paraphrase a reviewer.
+Submit this as a separate document with the revised manuscript. Prof Bhamjee (and co-supervisors and all authors) approve it before it goes back (gate 5). Replace every bracket. Quote each reviewer comment in full and in order; never paraphrase a reviewer.
 
 ---
 

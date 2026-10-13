@@ -27,5 +27,5 @@ One page. Send to Prof Muaaz Bhamjee (and all authors) before any drafting. Repl
 
 **Timeline:** first draft [date]; internal review [date]; submission [date]
 
-**Decision (Prof Bhamjee):** [ ] Approved as proposed  [ ] Approved with changes  [ ] Not yet
+**Decision (Prof Bhamjee and co-supervisors):** [ ] Approved as proposed  [ ] Approved with changes  [ ] Not yet
 Notes:

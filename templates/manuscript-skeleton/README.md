@@ -12,4 +12,4 @@ Starter layout for a new paper. Copy this folder into the paper's own repository
 └── RESPONSE.md      Not included; copy templates/response-to-reviewers.md or .tex here once reviews arrive
 ```
 
-Conventions: UK English unless the journal mandates US English; no em dashes; SI units; every symbol defined at first use; nomenclature in `sections/nomenclature.tex` if the journal wants one. Share the Overleaf project with Prof Bhamjee from the first draft.
+Conventions: UK English unless the journal mandates US English; no em dashes; SI units; every symbol defined at first use; nomenclature in `sections/nomenclature.tex` if the journal wants one. Share the Overleaf project with Prof Bhamjee (and co-supervisors) from the first draft.

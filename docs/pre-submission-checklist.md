@@ -1,6 +1,6 @@
 # Lab pre-submission checklist and decision workflow
 
-Five approval gates, each a short note or meeting with Prof Bhamjee, and nothing leaves the Lab between them without his sign-off.
+Five approval gates, each a short note or meeting with Prof Bhamjee (and co-supervisors), and nothing leaves the Lab between them without their sign-off.
 
 | Gate | What is decided | What you bring |
 | --- | --- | --- |
@@ -29,6 +29,6 @@ Checklist before gate 3:
 - [ ] Data, code and trained models archived with a DOI; data availability statement written
 - [ ] Funding, ethics and conflict of interest statements drafted; collaborator clearance obtained where required
 - [ ] AI use disclosed as the journal requires, and every passage passes the viva test
-- [ ] Draft shared with Prof Bhamjeen (and all authors) on Overleaf with at least two weeks for his (and their) review before any deadline
+- [ ] Draft shared with Prof Bhamjee (and co-supervisors and all authors) on Overleaf with at least two weeks for his (and their) review before any deadline
 
 Extracted from [how-to-write-a-paper.md](how-to-write-a-paper.md), section 12. Edit there, then regenerate this file.

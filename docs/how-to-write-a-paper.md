@@ -49,7 +49,7 @@ The UP Library's [Publishing in Journals](https://library.up.ac.za/c.php?g=48543
 
 APC refund procedure, in order: the publisher accepts the manuscript and invoices the author; the author pays the full amount from a departmental or faculty cost centre; after publication the author submits the signed [APC application form](https://library.up.ac.za/ld.php?content_id=63171672) (Dean's signature required, cost centre number in section 3.20), the detailed cost centre transactional report, the published article, proof of payment in rands and the invoice to apc.applications@up.ac.za. Check the [UP APC policy](https://library.up.ac.za/ld.php?content_id=60972273) and [procedures](https://library.up.ac.za/ld.php?content_id=60972271) before committing to any fee.
 
-For the Lab: no APC is paid and no Read and Publish option is exercised without Prof Bhamjee's approval, since the cost centre is his.
+For the Lab: no APC is paid and no Read and Publish option is exercised without Prof Bhamjee's (and co-supervisors') approval, since the cost centre is theirs.
 
 ## 3. From research to manuscript
 
@@ -105,7 +105,7 @@ Choose the journal before you finish the draft, and choose it on fit first and p
 
 Use the publisher journal-finder tools as a starting point only: Elsevier JournalFinder, Springer Nature Journal Suggester, Wiley Journal Finder and IEEE Publication Recommender all take an abstract and return candidate journals. Treat their output as a list to check, not a recommendation.
 
-Typical venues for the Lab's five pillars (a starting list for discussion with Prof Bhamjee, not an approved list):
+Typical venues for the Lab's five pillars (a starting list for discussion with Prof Bhamjee (and co-supervisors), not an approved list):
 
 - **CFD and multiphase flow:** Journal of Fluid Mechanics, Physics of Fluids, Computers and Fluids, International Journal of Multiphase Flow, Journal of Computational Physics, International Journal of Heat and Mass Transfer, Minerals Engineering (for hydrocyclone and process work).
 - **Lattice Boltzmann Methods:** Journal of Computational Physics, Computers and Fluids, Physical Review E, Computers and Mathematics with Applications, Journal of Computational Science.
@@ -130,7 +130,7 @@ Warning signs, any one of which is enough to stop and ask:
 
 Also check the [Retraction Watch Hijacked Journal Checker](https://retractionwatch.com/the-retraction-watch-hijacked-journal-checker/): some predatory sites clone the name and ISSN of a legitimate journal. Always reach the journal through its publisher's site or the DHET list, not through a link in an email.
 
-If in doubt, ask your Information Specialist and Prof Bhamjee before submitting. Under the Lab's rules you need his approval for every submission anyway, so there is no situation in which you submit to an unverified venue.
+If in doubt, ask your Information Specialist and Prof Bhamjee (and co-supervisors) before submitting. Under the Lab's rules you need their approval for every submission anyway, so there is no situation in which you submit to an unverified venue.
 
 ## 7. Conference papers
 
@@ -149,7 +149,7 @@ A conference paper reports work in progress or a complete but compact result to 
 
 DHET subsidises peer-reviewed proceedings only when they are published in an approved index (Web of Science Conference Proceedings Citation Index, Scopus, IEEE Xplore, Springer and similar) or meet the Research Output Policy criteria, and counts them at half the unit value of an accredited journal article. A conference without indexed proceedings earns UP nothing, which does not make it worthless, but you should know what you are getting.
 
-**Conferences relevant to the Lab** (for discussion with Prof Bhamjee; check indexing for each year's proceedings):
+**Conferences relevant to the Lab** (for discussion with Prof Bhamjee (and co-supervisors); check indexing for each year's proceedings):
 
 - Fluids and CFD: SAIMechE and SACAM (South African Conference on Computational and Applied Mechanics), ECCOMAS, WCCM, ICMF (multiphase flow), ASME FEDSM, the International Conference on CFD in the Minerals and Process Industries (CSIRO).
 - LBM: DSFD (Discrete Simulation of Fluid Dynamics), ICMMES (International Conference for Mesoscopic Methods in Engineering and Science).
@@ -157,7 +157,7 @@ DHET subsidises peer-reviewed proceedings only when they are published in an app
 - ATLAS and detector engineering: TWEPP, IEEE NSS/MIC, the SA Institute of Physics (SAIP) annual conference, ATLAS Collaboration internal meetings and ITk weeks (these are not publications).
 - Quantum: IEEE Quantum Week (QCE), SAIP, SA QuTI and SA-CERN workshops.
 
-In the Lab, a conference paper is reviewed internally by Prof Bhamjee before submission like any other paper, and the decision to attend (and spend) is his. A conference paper should be planned as a stepping stone: present at the conference, take the feedback, extend the work by at least 30 to 50% of new material (more cases, validation, analysis), and submit the extended version to a journal. The journal paper must cite the conference paper and the cover letter must state what is new.
+In the Lab, a conference paper is reviewed internally by Prof Bhamjee (and co-supervisors) before submission like any other paper, and the decision to attend (and spend) is theirs. A conference paper should be planned as a stepping stone: present at the conference, take the feedback, extend the work by at least 30 to 50% of new material (more cases, validation, analysis), and submit the extended version to a journal. The journal paper must cite the conference paper and the cover letter must state what is new.
 
 ## 8. How peer review works
 
@@ -203,19 +203,19 @@ In engineering and physics a journal article outranks a conference paper, and th
 | Prestige in the Lab's fields | Primary output | Supporting output |
 | Best use | The complete, validated contribution | Early results, feedback, a bounded sub-result, visibility |
 
-Two exceptions to know about. In computer science and machine learning, top conferences (NeurIPS, ICML, ICLR, CVPR) are the primary venue and are more selective than most journals; a SciML paper aimed at that community may legitimately target a conference first, and the decision is Prof Bhamjee's. In the ATLAS Collaboration, physics results are published as Collaboration papers through the ATLAS publication committee, and conference notes are a defined intermediate output; follow the Collaboration's rules.
+Two exceptions to know about. In computer science and machine learning, top conferences (NeurIPS, ICML, ICLR, CVPR) are the primary venue and are more selective than most journals; a SciML paper aimed at that community may legitimately target a conference first, and the decision is Prof Bhamjee's (and co-supervisors'). In the ATLAS Collaboration, physics results are published as Collaboration papers through the ATLAS publication committee, and conference notes are a defined intermediate output; follow the Collaboration's rules.
 
 The standard path for a Lab project is: internal seminar, conference paper on a bounded result, journal paper on the full contribution, with the journal paper citing the conference paper and containing substantial new material. Never publish the same results in two venues; that is duplicate publication and both can be retracted.
 
-Preprints (arXiv, SSRN, TechRxiv) are a third route: no review, immediate visibility, a timestamp for priority, and a DOI. Most journals in the Lab's fields allow preprinting before submission, but check the journal's policy on [Sherpa Romeo](https://www.sherpa.ac.uk/romeo/) first. Posting a preprint is a publication decision and needs Prof Bhamjee's approval.
+Preprints (arXiv, SSRN, TechRxiv) are a third route: no review, immediate visibility, a timestamp for priority, and a DOI. Most journals in the Lab's fields allow preprinting before submission, but check the journal's policy on [Sherpa Romeo](https://www.sherpa.ac.uk/romeo/) first. Posting a preprint is a publication decision and needs Prof Bhamjee's (and co-supervisors') approval.
 
 ## 10. Submission, revision and responding to reviewers
 
-Submit only after Prof Bhamjee has approved the final manuscript, the author list and the target venue in writing. The corresponding author (normally Prof Bhamjee for Lab papers, unless agreed otherwise) submits through the journal's system (Editorial Manager, ScholarOne, eJournalPress or similar).
+Submit only after Prof Bhamjee (and co-supervisors) have approved the final manuscript, the author list and the target venue in writing. The corresponding author (normally Prof Bhamjee for Lab papers, unless agreed otherwise) submits through the journal's system (Editorial Manager, ScholarOne, eJournalPress or similar).
 
 **The submission package.** The manuscript in the journal's template; a cover letter of one page that states the contribution in two sentences, why it fits this journal, confirms the work is original and not under review elsewhere, and declares any conflicts; highlights or a graphical abstract if required; suggested reviewers (3 to 5 experts with no recent co-authorship with any author) and, if justified, reviewers to exclude; the data availability, funding and ethics statements; and ORCIDs for all authors. Keep a copy of everything submitted.
 
-**Responding to reviewers.** This is where papers are won. Prepare a response document with three columns or blocks for every comment: the reviewer's comment quoted in full, your response, and the change made with its location in the revised manuscript. Respond to every comment, including the ones you disagree with; where you disagree, explain why with evidence and courtesy, and consider whether the text can still be clarified. Thank the reviewers once at the top, not after every point. Supply a marked-up version showing changes and a clean version. Meet the deadline; ask for an extension early if needed. Prof Bhamjee reviews and approves the response before it goes back.
+**Responding to reviewers.** This is where papers are won. Prepare a response document with three columns or blocks for every comment: the reviewer's comment quoted in full, your response, and the change made with its location in the revised manuscript. Respond to every comment, including the ones you disagree with; where you disagree, explain why with evidence and courtesy, and consider whether the text can still be clarified. Thank the reviewers once at the top, not after every point. Supply a marked-up version showing changes and a clean version. Meet the deadline; ask for an extension early if needed. Prof Bhamjee (and co-supervisors) review and approve the response before it goes back.
 
 **If rejected.** Read the reports after a day, not immediately. Separate the reasons: wrong fit (go to another journal), fixable flaws (fix them, then go to another journal), or fundamental flaws (more work needed). Do not resubmit the same manuscript elsewhere without addressing the reviewers' points; reviewers overlap between journals and will notice. An appeal is only worth it when a reviewer has made a demonstrable factual error that decided the outcome.
 
@@ -237,7 +237,7 @@ Authorship is earned by meeting all four [ICMJE criteria](https://www.icmje.org/
 
 ## 12. Lab pre-submission checklist and decision workflow
 
-Five approval gates, each a short note or meeting with Prof Bhamjee, and nothing leaves the Lab between them without his sign-off.
+Five approval gates, each a short note or meeting with Prof Bhamjee (and co-supervisors), and nothing leaves the Lab between them without their sign-off.
 
 | Gate | What is decided | What you bring |
 | --- | --- | --- |
@@ -266,7 +266,7 @@ Checklist before gate 3:
 - [ ] Data, code and trained models archived with a DOI; data availability statement written
 - [ ] Funding, ethics and conflict of interest statements drafted; collaborator clearance obtained where required
 - [ ] AI use disclosed as the journal requires, and every passage passes the viva test
-- [ ] Draft shared with Prof Bhamjee on Overleaf with at least one week for his review before any deadline
+- [ ] Draft shared with Prof Bhamjee (and co-supervisors) on Overleaf with at least one week for their review before any deadline
 
 ## 13. Sources and further reading
 
