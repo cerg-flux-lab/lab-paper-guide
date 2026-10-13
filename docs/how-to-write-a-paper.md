@@ -95,7 +95,7 @@ Choose the journal before you finish the draft, and choose it on fit first and p
 | Criterion | What to check | Where |
 | --- | --- | --- |
 | Scope and readership | Does the journal publish papers like yours. Read five recent papers in your area from it. Check the Aims and Scope page. | Journal website |
-| DHET accreditation | Is it on the current accredited list and not flagged as delisted. Lab rule: if a journal is not on the current DHET accredited list, we do not publish there. Without it UP earns no subsidy and the Lab's output counts for less in reporting. | [CREST list](https://db.crest.sun.ac.za/zapublications/) |
+| DHET accreditation | Is it on the current accredited list and not flagged as delisted. Lab rule: if a journal is not on the current DHET accredited list, we do not publish there. Without it UP earns no subsidy and the article is not counted as a research output at all. | [CREST list](https://db.crest.sun.ac.za/zapublications/) |
 | Indexing | Is it in Web of Science (SCIE) or Scopus. Both are required for NRF rating evidence and for most promotion and rating panels. | [JCR via UP](https://uplib.idm.oclc.org/login?url=http://jcr.clarivate.com/), Scopus Sources |
 | Impact Factor and quartile | JCR Impact Factor and quartile (Q1 to Q4) within the journal's category. Also look at Scopus CiteScore and SJR, since categories and rankings differ between the two. | JCR, [Scimago](https://www.scimagojr.com/) |
 | Review time and acceptance rate | Many journals publish median time to first decision. Over six months to first decision is a cost to a PhD timeline. | Journal homepage, journal metrics page |
