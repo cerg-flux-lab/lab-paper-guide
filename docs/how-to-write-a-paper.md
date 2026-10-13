@@ -15,10 +15,11 @@ Maintainer: Prof Muaaz Bhamjee | Version 1.0 | 9 October 2026
 7. [Conference papers](#7-conference-papers)
 8. [How peer review works](#8-how-peer-review-works)
 9. [Journals versus conferences](#9-journals-versus-conferences)
-10. [Submission, revision and responding to reviewers](#10-submission-revision-and-responding-to-reviewers)
-11. [Authorship, ethics and research integrity](#11-authorship-ethics-and-research-integrity)
-12. [Lab pre-submission checklist and decision workflow](#12-lab-pre-submission-checklist-and-decision-workflow)
-13. [Sources and further reading](#13-sources-and-further-reading)
+10. [Preprints](#10-preprints)
+11. [Submission, revision and responding to reviewers](#11-submission-revision-and-responding-to-reviewers)
+12. [Authorship, ethics and research integrity](#12-authorship-ethics-and-research-integrity)
+13. [Lab pre-submission checklist and decision workflow](#13-lab-pre-submission-checklist-and-decision-workflow)
+14. [Sources and further reading](#14-sources-and-further-reading)
 
 ## 1. Purpose and the Lab's rules
 
@@ -163,6 +164,8 @@ In the Lab, a conference paper is reviewed internally by Prof Bhamjee (and co-su
 
 Peer review is independent experts checking that your claims are supported by your evidence before the work enters the record. It is the thing that separates a publication from a blog post, and it is why a reviewed paper carries weight in examinations, ratings and promotion. The flow below is the journal process; a conference compresses it into a single round.
 
+**No peer review, no submission.** If a venue does not put the manuscript through independent expert review before publication, the Lab does not publish there, at any cost or for any reason. This covers journals that offer editorial screening only, proceedings that publish every abstract received, pay-to-publish outlets that promise acceptance within days, book chapters assembled without review, and any venue that cannot tell you in writing who reviews, how many reviewers there are and what they decide. An unreviewed paper is not counted by DHET, carries no weight with examiners, rating panels or promotion committees, and a record of them signals to every future reviewer that the author avoids scrutiny. The only unreviewed outputs the Lab produces are preprints, and a preprint is a copy of a paper that is on its way to peer review, never a substitute for it (section 10).
+
 ```mermaid
 flowchart LR
     A[Submit manuscript] --> B[Editor screens]
@@ -207,9 +210,52 @@ Two exceptions to know about. In computer science and machine learning, top conf
 
 The standard path for a Lab project is: internal seminar, conference paper on a bounded result, journal paper on the full contribution, with the journal paper citing the conference paper and containing substantial new material. Never publish the same results in two venues; that is duplicate publication and both can be retracted.
 
-Preprints (arXiv, SSRN, TechRxiv) are a third route: no review, immediate visibility, a timestamp for priority, and a DOI. Most journals in the Lab's fields allow preprinting before submission, but check the journal's policy on [Sherpa Romeo](https://www.sherpa.ac.uk/romeo/) first. Posting a preprint is a publication decision and needs Prof Bhamjee's (and co-supervisors') approval.
+Preprints are not a third venue. They are a copy of a paper that is heading to one of the two routes above, posted early for visibility and priority. Section 10 explains when the Lab uses them and when it does not.
 
-## 10. Submission, revision and responding to reviewers
+## 10. Preprints
+
+A preprint is the author's version of a manuscript posted on a public server before, or at the same time as, it is submitted for peer review. It gets a permanent identifier and a timestamp, anyone can read it, and it is not reviewed. In the Lab a preprint is always a copy of a paper that is on its way to a peer-reviewed venue, never the final form of the work. Posting one is a publication decision under rule 1 and needs Prof Bhamjee's (and co-supervisors') written approval.
+
+**Why preprints are useful.**
+
+- Priority. The timestamp establishes when you had the result, which matters in fast-moving areas such as SciML and quantum computing where a journal's 6 to 12 month cycle can see you scooped.
+- Visibility while review runs. The paper can be read, cited and discussed during the months it sits with reviewers, and in physics, quantum information and machine learning the preprint is what most of the community actually reads.
+- Free open access. A preprint satisfies most funders' open access expectations without an APC, and the accepted manuscript can later be updated in place (green open access, in addition to UPSpace).
+- Evidence of output. A preprint can be cited in a thesis, an NRF rating application, a grant proposal or a job application as work under review, which a manuscript sitting in Editorial Manager cannot.
+- Feedback. Readers write to authors about preprints; corrections caught here are corrections the reviewers do not see.
+- Some venues require it. *Quantum* is an overlay journal that reviews papers already on arXiv, and ATLAS Collaboration papers are posted to arXiv on submission as standard.
+
+**Common servers.** Choose by community, not by convenience, and use one server per paper.
+
+| Server | Fields | Notes |
+| --- | --- | --- |
+| [arXiv](https://arxiv.org/) | Physics (including physics.flu-dyn, physics.comp-ph, physics.ins-det), mathematics, computer science (cs.LG, cs.CE, cs.AI), quant-ph, stat.ML | The default for the Lab. First-time submitters need an endorsement from an established author in the category; Prof Bhamjee endorses. TeX source is required where it exists, and the source becomes public. |
+| [TechRxiv](https://www.techrxiv.org/) | Engineering and technology (IEEE) | Suitable for engineering papers aimed at IEEE Transactions. |
+| [SSRN](https://www.ssrn.com/) | Elsevier's server; some Elsevier journals offer a "First Look" preprint at submission | Only when the target Elsevier journal offers it and the community reads it; most of the Lab's fields read arXiv. |
+| [Research Square](https://www.researchsquare.com/) | Springer Nature's "In Review" service | Opt-in at submission to a participating Springer Nature journal; the preprint is posted automatically. |
+| [engrXiv](https://engrxiv.org/) | Engineering | Smaller readership; use only if the target community is there. |
+| [Zenodo](https://zenodo.org/) | Any; general repository with DOIs | For code, data and supplementary material rather than manuscripts. |
+
+**When to post.** The right moment is the day of submission, with the same version that went to the journal, so that the public record and the reviewed record match. Post when all of the following hold: the manuscript has passed gate 3 and gate 4; the journal allows preprints (check [Sherpa Romeo](https://www.sherpa.ac.uk/romeo/) and the journal's own policy page, and keep a copy of what it said); every partner clearance is in hand; and the author list is final. Conference papers are posted after acceptance, in the camera-ready form, unless the conference's own policy says otherwise.
+
+**When not to post.** Do not post a preprint if any of these apply:
+
+- The target journal or conference prohibits it, or runs double-anonymised review and treats a preprint as breaking anonymity. Some ACM, IEEE and society venues do; check the specific call.
+- The work could be patented. A preprint is public disclosure and destroys novelty. Speak to the UP Technology Transfer Office through Prof Bhamjee before anything leaves the Lab.
+- The work involves the ATLAS Collaboration, a CERN partner or an industry collaborator and the partner's publication approval has not been given. ATLAS results go through the Collaboration's own process, and ATLAS internal notes are never posted.
+- The results are preliminary. A preprint cannot be deleted; arXiv keeps every version forever, and a withdrawn preprint still shows its history. If you would not defend it in a viva, do not post it.
+- The paper is a review, survey or position paper aimed at a computer science category. Since October 2025 arXiv's CS section accepts these only after they have been accepted by a peer-reviewed journal or conference, with the DOI supplied at submission; workshop review does not count.
+- The intention is to accumulate preprints instead of publishing. A preprint is not peer-reviewed, is not DHET-accredited, earns no subsidy and is not a research output for UP. Cite preprints in your own work only when no reviewed version exists, and replace the citation once one does.
+
+**Keeping the record straight.** Use the same title and author list as the submission. Choose the licence deliberately: arXiv's default non-exclusive licence keeps your options open, whereas CC BY is irrevocable and some journals will not accept a manuscript already under it. Once the paper is published, add the journal reference and DOI to the preprint's metadata and, where the journal allows, replace the text with the accepted manuscript. Clean the TeX source before uploading: comments, tracked-changes macros and reviewer notes all become public on arXiv.
+
+**arXiv limits from October 2026.** Each submitter may post at most two new submissions per calendar month and have at most three awaiting moderation at any time; rejected submissions count towards the monthly total. The limit is arXiv's response to a doubling of submissions in two years, much of it thin or AI-assembled, and it means a Lab member who posts carelessly can block a colleague's submission that month. Plan postings with Prof Bhamjee.
+
+> **Warning: arXiv's policy on unchecked AI-generated content.** From May 2026 arXiv applies a one-strike rule. If a submission contains incontrovertible evidence that the authors did not check what a language model produced, such as hallucinated or fabricated references, a leftover instruction to or from the model ("here is a 200 word summary, would you like me to change anything?"), or placeholder text ("fill in the real numbers from your experiments"), every listed author receives a one-year ban from arXiv. After the ban, their later submissions are accepted only once the paper has already been accepted at a reputable peer-reviewed venue, which for practical purposes ends preprinting for them. arXiv's position is that if such evidence exists, nothing else in the paper can be trusted, and that every author is fully responsible for all content regardless of how it was generated. arXiv also expects AI use in the research to be disclosed and requires that every submission be original, novel and significant self-contained research.
+>
+> For the Lab this changes nothing in principle, because rule 2 already requires that every word pass the viva test and the Lab's AI Research Guidelines already limit AI tools to formatting, mechanics, consistency checks and critique. It changes a great deal in consequence. A single uncaught hallucinated reference in a student's preprint bans Prof Bhamjee and every co-author for a year and damages the Lab's standing. Before any posting: open every reference and confirm it exists and says what you cite it for; search the source for phrases such as "as an AI", "I hope this helps", "would you like", "illustrative", "placeholder" and "TODO"; and have a co-author who did not write the section read it cold. The same check protects you with journals, whose editors now screen for the same signals.
+
+## 11. Submission, revision and responding to reviewers
 
 Submit only after Prof Bhamjee (and co-supervisors) have approved the final manuscript, the author list and the target venue in writing. The corresponding author (normally Prof Bhamjee for Lab papers, unless agreed otherwise) submits through the journal's system (Editorial Manager, ScholarOne, eJournalPress or similar).
 
@@ -221,7 +267,7 @@ Submit only after Prof Bhamjee (and co-supervisors) have approved the final manu
 
 **After acceptance.** Check the proofs within the publisher's deadline (usually 48 to 72 hours), looking at equations, figure placement, units and author details, since errors introduced in typesetting are yours to catch. Sort out open access (Read and Publish or APC, per the UP section above). Deposit the author-accepted manuscript in UPSpace where the publisher permits. Add the paper to your ORCID record and the Lab website, and report it for UP's annual research output return.
 
-## 11. Authorship, ethics and research integrity
+## 12. Authorship, ethics and research integrity
 
 Authorship is earned by meeting all four [ICMJE criteria](https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html): substantial contribution to conception, design, data or analysis; drafting or critically revising the paper; approving the final version; and accepting accountability for the whole work. All four, not a majority. Someone who meets fewer than four is acknowledged, not listed. Gift authorship (adding a senior name for credibility), guest authorship (adding someone who did nothing) and ghost authorship (omitting someone who wrote substantial parts) are all misconduct.
 
@@ -235,7 +281,7 @@ Authorship is earned by meeting all four [ICMJE criteria](https://www.icmje.org/
 
 **Confidentiality.** Nothing from the ATLAS Collaboration, a CERN partner or an industry collaborator goes into a manuscript without the partner's written clearance. Do not place restricted or third-party confidential material into any AI tool except as UP policy and the relevant agreement permit.
 
-## 12. Lab pre-submission checklist and decision workflow
+## 13. Lab pre-submission checklist and decision workflow
 
 Five approval gates, each a short note or meeting with Prof Bhamjee (and co-supervisors), and nothing leaves the Lab between them without their sign-off.
 
@@ -268,7 +314,7 @@ Checklist before gate 3:
 - [ ] AI use disclosed as the journal requires, and every passage passes the viva test
 - [ ] Draft shared with Prof Bhamjee (and co-supervisors) on Overleaf with at least one week for their review before any deadline
 
-## 13. Sources and further reading
+## 14. Sources and further reading
 
 Pages opened in preparing this guide:
 
@@ -285,6 +331,9 @@ Further reading recommended for new authors:
 
 - COPE, [Core practices](https://publicationethics.org/core-practices) on publication ethics
 - [Sherpa Romeo](https://www.sherpa.ac.uk/romeo/) for journal preprint and self-archiving policies
+- arXiv, [Updated practice for review articles and position papers in the CS category](https://blog.arxiv.org/2025/10/31/attention-authors-updated-practice-for-review-articles-and-position-papers-in-arxiv-cs-category/) (31 October 2025)
+- arXiv, [Fair moderation, equitable access, and AI: updated rate limit policy](https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/) (1 October 2026)
+- Research Information, [arXiv imposes one-year ban for unchecked AI-generated content](https://www.researchinformation.info/news/arxiv-imposes-one-year-ban-for-unchecked-ai-generated-content/) (18 May 2026), reporting the announcement by Thomas Dietterich, chair of arXiv's computer science section
 - [DOAJ](https://doaj.org/) for vetted open access journals
 - Joshua Schimel, *Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded* (Oxford University Press, 2012)
 - Hilary Glasman-Deal, *Science Research Writing for Non-Native Speakers of English* (Imperial College Press, 2010)

@@ -46,7 +46,7 @@ Guide, templates and checklists for publishing from the CERG-FLUX Lab (Fluids, L
 
 ## Approval workflow in one line
 
-Gate 1 proposal, Gate 2 venue, Gate 3 manuscript, Gate 4 submission, Gate 5 every response or resubmission. Nothing leaves the Lab between gates without Prof Bhamjee's (and co-supervisors') written sign-off. Details in section 12 of the guide.
+Gate 1 proposal, Gate 2 venue, Gate 3 manuscript, Gate 4 submission, Gate 5 every response or resubmission. Nothing leaves the Lab between gates without Prof Bhamjee's (and co-supervisors') written sign-off. Details in section 13 of the guide.
 
 ## Maintainer
 

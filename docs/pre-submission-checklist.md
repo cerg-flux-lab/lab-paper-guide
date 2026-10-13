@@ -31,4 +31,4 @@ Checklist before gate 3:
 - [ ] AI use disclosed as the journal requires, and every passage passes the viva test
 - [ ] Draft shared with Prof Bhamjee (and co-supervisors and all authors) on Overleaf with at least two weeks for his (and their) review before any deadline
 
-Extracted from [how-to-write-a-paper.md](how-to-write-a-paper.md), section 12. Edit there, then regenerate this file.
+Extracted from [how-to-write-a-paper.md](how-to-write-a-paper.md), section 13. Edit there, then regenerate this file.

@@ -33,6 +33,6 @@ Every journal below was on the DHET accredited list on the date checked. The Lab
 
 ## Before you use any template
 
-1. Confirm the venue is approved at gate 2 (see the guide, section 12).
+1. Confirm the venue is approved at gate 2 (see the guide, section 13).
 2. Download the current template and read the guide for authors on the same day; templates change.
 3. Start from `templates/manuscript-skeleton/` for the project layout, then swap in the publisher class.
