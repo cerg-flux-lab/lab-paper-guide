@@ -5,7 +5,7 @@ Five approval gates, each a short note or meeting with Prof Bhamjee, and nothing
 | Gate | What is decided | What you bring |
 | --- | --- | --- |
 | 1. Go or no-go | Whether there is a paper, and whether it is a conference or journal paper | One-sentence contribution, list of evidence, proposed authors, two or three candidate venues |
-| 2. Venue | The target journal or conference, the open access route and any cost | The venue comparison from the "Where to publish" table, the accreditation and indexing check, Think. Check. Submit. completed |
+| 2. Venue | The target journal or conference, the open access route and any cost | The venue comparison from the "Where to publish" table, the accreditation and indexing check (a journal not on the DHET list is not an option), Think. Check. Submit. completed |
 | 3. Manuscript | That the draft is ready for external review | The complete manuscript on Overleaf, figures final, the checklist below ticked |
 | 4. Submission | Final approval to submit | Cover letter, suggested reviewers, statements, author list and CRediT roles |
 | 5. Response and resubmission | Every revision, response to reviewers, appeal, withdrawal or resubmission elsewhere | The response document and marked-up manuscript |

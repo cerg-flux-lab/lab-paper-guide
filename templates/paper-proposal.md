@@ -14,7 +14,7 @@ One page. Send to Prof Muaaz Bhamjee (and all authors) before any drafting. Repl
 
 **Candidate venues (two or three), with reasoning:**
 
-| Venue | Fit (why this readership) | DHET accredited | Indexed (WoS/Scopus) | Quartile / CiteScore | Open access route and cost | Median time to first decision |
+| Venue | Fit (why this readership) | DHET accredited (must be yes for a journal; not on the list means we do not publish there) | Indexed (WoS/Scopus) | Quartile / CiteScore | Open access route and cost | Median time to first decision |
 | --- | --- | --- | --- | --- | --- | --- |
 | | | | | | | |
 | | | | | | | |

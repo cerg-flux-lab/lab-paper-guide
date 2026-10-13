@@ -26,20 +26,20 @@ This guide takes a CERG-FLUX Lab (Fluids, Learning and Uncertainty in compleX sy
 
 Two rules apply to every paper from the Lab, without exception:
 
-1. **All publication decisions require Prof Muaaz Bhamjee's input and final approval.** This includes the decision to write a paper, the author list and order, the target journal or conference, the submission itself, any preprint posting, responses to reviewers, and any resubmission after rejection. Do not submit anything with the Lab's name or affiliation on it without his written sign-off.
+1. **All publication decisions require Prof Muaaz Bhamjee's (and all authors) input and final approval.** This includes the decision to write a paper, the author list and order, the target journal or conference, the submission itself, any preprint posting, responses to reviewers, and any resubmission after rejection. Do not submit anything with the Lab's name or affiliation on it without his written sign-off.
 2. **You must be able to defend every word.** The Lab applies a three-tier Intellectual Ownership Framework. A manuscript is Tier 1: the science, the argument, the method description and the interpretation of results are written by the authors. AI tools may be used for formatting, LaTeX mechanics, consistency checks, reference formatting and identifying weaknesses, never for writing the science. The test is the viva test: if you cannot independently defend a passage, it is not yours and must be rewritten.
 
 Who this is for: Lab postgraduate students (Masters and PhD), postdocs and collaborators preparing their first papers. Experienced authors should still use the checklist in the final section.
 
 ## 2. UP processes and resources
 
-The UP Library's [Publishing in Journals](https://library.up.ac.za/c.php?g=485435&p=11474533) page sets out a three-step checklist for publishing in a credible journal: confirm DHET accreditation, check the Impact Factor and quartile, then arrange open access funding. The table below maps each UP resource to what you use it for.
+The UP Library's [Publishing in Journals](https://library.up.ac.za/c.php?g=485435&p=11474533) page sets out a three-step checklist for publishing in a credible journal: confirm DHET accreditation, check the Impact Factor and quartile, then arrange open access funding. The Lab treats the first step as absolute: a journal that is not on the current DHET accredited list is not a venue we publish in, whatever its other merits. The table below maps each UP resource to what you use it for.
 
 | UP resource | What it does | When to use it | Link |
 | --- | --- | --- | --- |
-| DHET Accredited Journals List | The Department of Higher Education and Training's master list of journals eligible for research subsidy. The list now flags delisted journals and states eligibility. The current list governs articles published in 2026 and claimed in 2027. | Before choosing a target journal. If the journal is not on the list (or is delisted), UP earns no subsidy for the article. | [CREST list](https://db.crest.sun.ac.za/zapublications/) |
-| Journal Citation Reports (JCR) | Clarivate database of Journal Impact Factors and quartile rankings (Q1 to Q4). Access via UP library login. | To compare candidate journals on citation impact and quartile. | [JCR via UP](https://uplib.idm.oclc.org/login?url=http://jcr.clarivate.com/) |
-| Transformational (Read and Publish) agreements | SANLiC agreements that let UP corresponding authors publish open access at no cost with Wiley, Hindawi, Emerald, ACM, ACS, Springer Nature, Elsevier (ScienceDirect), Taylor & Francis, Royal Society of Chemistry, Company of Biologists and SAGE. | First choice for open access. Covers hybrid journals, which the APC fund does not. | [R&P agreements](https://www.library.up.ac.za/ld.php?content_id=65993708) |
+| DHET Accredited Journals List | The Department of Higher Education and Training's master list of journals eligible for research subsidy. The list now flags delisted journals and states eligibility. The current list governs articles published in 2026 and claimed in 2027. | Before choosing a target journal. If the journal is not on the list (or is delisted), UP earns no subsidy for the article. Lab rule: if a journal is not on the current DHET accredited list, we do not publish there. | [CREST list](https://db.crest.sun.ac.za/zapublications/) |
+| Journal Citation Reports (JCR) | Clarivate database of Journal Impact Factors and quartile rankings (Q1 to Q4). Access via UP library login. | To compare candidate journals on citation impact and quartile. We aim for Q1 nd Q2 only. | [JCR via UP](https://uplib.idm.oclc.org/login?url=http://jcr.clarivate.com/) |
+| Transformational (Read and Publish) agreements | SANLiC agreements that let UP corresponding authors publish open access at no cost with Wiley, , Emerald, ACM, ACS, Springer Nature, Elsevier (ScienceDirect), Taylor & Francis, Royal Society of Chemistry, Company of Biologists and SAGE. | First choice for open access. Covers hybrid journals, which the APC fund does not. | [R&P agreements](https://www.library.up.ac.za/ld.php?content_id=65993708) |
 | Open Access APC fund | Library-administered fund that refunds 50% or 60% of Article Processing Charges for articles in accredited, peer-reviewed, fully open access (DOAJ-listed) journals. Works on a refund basis: the author pays from a departmental cost centre first. Hybrid journals are excluded. | When the journal is fully open access and not covered by a Read and Publish agreement. | [APC fund](https://library.up.ac.za/c.php?g=1126926&p=8249883) |
 | Information Specialist | Faculty-assigned librarian who helps with journal selection, databases and referencing. | Early in the process, and whenever a journal's credibility is unclear. | [Find yours](https://www.library.up.ac.za/contact/infospecialists) |
 | Ethics Application Guide | UP's guide to research ethics clearance. | Before any data collection involving people, animals or sensitive data. Journals ask for the clearance number. | [Ethics guide](https://library.up.ac.za/c.php?g=485435&p=11474672) |
@@ -53,7 +53,7 @@ For the Lab: no APC is paid and no Read and Publish option is exercised without 
 
 ## 3. From research to manuscript
 
-A paper starts with one defensible contribution, not with a draft. Before writing anything, agree the following with Prof Bhamjee in a short meeting or a one-page note:
+A paper starts with one defensible contribution, not with a draft. Before writing anything, agree the following with Prof Bhamjee (and co-supervisors) in a short meeting or a one-page note:
 
 1. **The contribution, in one sentence.** What does a reader know after your paper that they did not know before? If you cannot state it in one sentence, the work is not ready. One paper, one contribution; a second contribution is usually a second paper.
 2. **The evidence.** Which results, figures and validation cases prove the contribution. For CFD, LBM and SciML work this includes mesh or resolution independence, verification against an analytical or benchmark case, and validation against experiment or an established reference.
@@ -63,7 +63,7 @@ A paper starts with one defensible contribution, not with a draft. Before writin
 
 Write the manuscript in the order Springer Nature's author tutorial recommends, which is not the published order: Methods first, then Results (both can be written while the work is still running), then Introduction, Discussion and Conclusion once you know what the results mean, and Title and Abstract last because they summarise everything else. Build the figures before the Results text; the text explains the figures, not the other way round.
 
-Lab practice: LaTeX on Overleaf is the default, shared with Prof Bhamjee from the first draft. Use a version-controlled repository (github.com/cerg-flux-lab) for code and data that the paper depends on, so that the Reproducibility check in the final section can be passed.
+Lab practice: LaTeX on Overleaf is the default, shared with Prof Bhamjee (and all authors) from the first draft. Use a version-controlled repository (github.com/cerg-flux-lab) for code and data that the paper depends on, so that the Reproducibility check in the final section can be passed.
 
 ## 4. Structure of a research paper
 
@@ -75,8 +75,8 @@ Nearly every engineering and physics journal expects the IMRaD structure (Introd
 | Abstract | The paper in miniature: problem, method, main result with a number, implication. Must stand alone. | Does the stated result match the body. Is it quantitative. | 150 to 250 words |
 | Introduction | Funnel from the broad problem to the specific gap, then state what this paper does. End with the contributions and the paper's layout. | Is the gap real and supported by the literature review. Is the contribution clear. | 10 to 15% of the body |
 | Methods | Everything needed to reproduce the work: governing equations, numerical scheme, boundary conditions, mesh or lattice, solver settings, hyperparameters, hardware, data. | Can a competent reader reproduce it. Are symbols defined and units consistent. | As long as needed |
-| Results | What was found, presented through figures and tables, without interpretation. Report verification and validation before new results. | Are claims supported by the data shown. Are uncertainties stated. | The core of the paper |
-| Discussion | What the results mean, how they compare with prior work, limitations, and why they matter. | Honest treatment of limitations and of disagreement with other studies. | Proportionate to Results |
+| Results* | What was found, presented through figures and tables, without interpretation. Report verification and validation before new results. | Are claims supported by the data shown. Are uncertainties stated. | The core of the paper |
+| Discussion* | What the results mean, how they compare with prior work, limitations, and why they matter. | Honest treatment of limitations and of disagreement with other studies. | Proportionate to Results |
 | Conclusion | Restate the contribution and the key numbers; state future work briefly. | No new results; no overclaiming. | 1 to 3 paragraphs |
 | References | Every claim that is not yours, cited to a source you have read. | Current, relevant, correctly formatted. | 30 to 60 for a full paper |
 
@@ -86,14 +86,16 @@ Writing conventions for the Lab: UK English unless the journal mandates US Engli
 
 Other article types exist. A letter or short communication (typically 4 to 6 pages) reports one sharp result. A review article surveys a field and is usually invited or proposed to the editor first. A data or software paper describes a dataset or code. Each has its own structure; read the journal's guide for authors.
 
+*Sometimes the Results and Dsicussions are combined into a single section - this is my prefered method - so use it unless the Author Guide says otherwise.
+
 ## 5. Where to publish: choosing a journal
 
-Choose the journal before you finish the draft, and choose it on fit first and prestige second. A well-matched Q2 journal that publishes your paper beats a Q1 journal that desk-rejects it. Shortlist two or three candidates and present them to Prof Bhamjee with the reasoning below; he makes the final call.
+Choose the journal before you finish the draft, and choose it on fit first and prestige second. A well-matched Q2 journal that publishes your paper beats a Q1 journal that desk-rejects it. Shortlist two or three candidates and present them to Prof Bhamjee (and co-supervisors) with the reasoning below; he (and co-supervisors) makes the final call.
 
 | Criterion | What to check | Where |
 | --- | --- | --- |
 | Scope and readership | Does the journal publish papers like yours. Read five recent papers in your area from it. Check the Aims and Scope page. | Journal website |
-| DHET accreditation | Is it on the current accredited list and not flagged as delisted. Without this UP earns no subsidy and the Lab's output counts for less in reporting. | [CREST list](https://db.crest.sun.ac.za/zapublications/) |
+| DHET accreditation | Is it on the current accredited list and not flagged as delisted. Lab rule: if a journal is not on the current DHET accredited list, we do not publish there. Without it UP earns no subsidy and the Lab's output counts for less in reporting. | [CREST list](https://db.crest.sun.ac.za/zapublications/) |
 | Indexing | Is it in Web of Science (SCIE) or Scopus. Both are required for NRF rating evidence and for most promotion and rating panels. | [JCR via UP](https://uplib.idm.oclc.org/login?url=http://jcr.clarivate.com/), Scopus Sources |
 | Impact Factor and quartile | JCR Impact Factor and quartile (Q1 to Q4) within the journal's category. Also look at Scopus CiteScore and SJR, since categories and rankings differ between the two. | JCR, [Scimago](https://www.scimagojr.com/) |
 | Review time and acceptance rate | Many journals publish median time to first decision. Over six months to first decision is a cost to a PhD timeline. | Journal homepage, journal metrics page |
@@ -120,7 +122,7 @@ A predatory venue takes your money and gives you a publication that counts for n
 Warning signs, any one of which is enough to stop and ask:
 
 - An unsolicited email inviting you to submit, often praising a paper of yours, with a promise of fast review (days or a few weeks) or guaranteed acceptance.
-- The journal is not on the DHET accredited list, not in Web of Science or Scopus, and not in DOAJ (for open access titles).
+- The journal is not on the DHET accredited list (which on its own rules it out for the Lab), not in Web of Science or Scopus, and not in DOAJ (for open access titles).
 - APC not stated clearly, or only revealed after acceptance; or an unusually low fee.
 - No clear statement of the peer review model; editorial board members who do not list the journal on their own institutional pages; a title that closely imitates a well-known journal.
 - Publisher not a member of COPE, OASPA or STM; DOIs that do not resolve in Crossref.
@@ -240,7 +242,7 @@ Five approval gates, each a short note or meeting with Prof Bhamjee, and nothing
 | Gate | What is decided | What you bring |
 | --- | --- | --- |
 | 1. Go or no-go | Whether there is a paper, and whether it is a conference or journal paper | One-sentence contribution, list of evidence, proposed authors, two or three candidate venues |
-| 2. Venue | The target journal or conference, the open access route and any cost | The venue comparison from the "Where to publish" table, the accreditation and indexing check, Think. Check. Submit. completed |
+| 2. Venue | The target journal or conference, the open access route and any cost | The venue comparison from the "Where to publish" table, the accreditation and indexing check (a journal not on the DHET list is not an option), Think. Check. Submit. completed |
 | 3. Manuscript | That the draft is ready for external review | The complete manuscript on Overleaf, figures final, the checklist below ticked |
 | 4. Submission | Final approval to submit | Cover letter, suggested reviewers, statements, author list and CRediT roles |
 | 5. Response and resubmission | Every revision, response to reviewers, appeal, withdrawal or resubmission elsewhere | The response document and marked-up manuscript |

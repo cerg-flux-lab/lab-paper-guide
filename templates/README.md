@@ -4,6 +4,8 @@ Always download the template from the publisher's own page or Overleaf's officia
 
 ## Journals
 
+Every journal below was on the DHET accredited list on the date checked. The Lab does not publish in a journal that is not on the current list, so confirm the entry on the [CREST list](https://db.crest.sun.ac.za/zapublications/) before each submission; the list changes every year and titles are delisted.
+
 | Publisher | Journals the Lab targets | Template | Notes |
 | --- | --- | --- | --- |
 | Elsevier | Computers and Fluids; Int. J. Multiphase Flow; J. Computational Physics; Int. J. Heat and Mass Transfer; CMAME; Minerals Engineering; Applied Thermal Engineering; Engineering Applications of AI; Neural Networks; NIM A; Computers and Mathematics with Applications; J. Computational Science | `elsarticle` class: [Elsevier LaTeX instructions](https://www.elsevier.com/researcher/author/policies-and-guidelines/latex-instructions) and the [Overleaf elsarticle template](https://www.overleaf.com/latex/templates/elsevier-article-elsarticle-template/vwckvfrzvcht) | Use `preprint` option for submission, `review` for line numbers. Most Elsevier titles accept Your Paper Your Way (free format) at first submission. UP Read and Publish covers Elsevier hybrid titles. |
